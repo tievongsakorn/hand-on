@@ -9,7 +9,7 @@
             </div>
            <div class="col-12">
                 <div class="row">
-                    <div class="col-5">
+                    <div class="col-12 col-md-5">
                         <h3>
                             <br>
                             ข้อมูลกาดนั่งยองคลองย่าม
@@ -20,7 +20,7 @@
                         <br>
                         <br>    
                     </div>
-                    <div class="col-7">
+                    <div class="col-12 col-md-7">
                     <br><br><br><br>
                     <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;กาดนั่งยอง คล้องย่าม เกิดจากแนวคิดของท่านผู้ว่าราชการจังหวัดตาก (นายสมชัยฐ์ หทยะตันย์ติ) 

@@ -8,7 +8,7 @@
             
            <div class="col-12">
                 <div class="row">
-                    <div class="col-5">
+                    <div class="col-12 col-md-5">
                         <h4>
                             <br>
                             ข้อมูลศาลสมเด็จพระเจ้าตากสินมหาราช
@@ -19,7 +19,7 @@
                         <br>
                         <br>    
                     </div>
-                    <div class="col-7">
+                    <div class="col-12 col-md-7">
                     <br><br><br><br>
                     <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ศาลสมเด็จพระเจ้าตากสินมหาราช ตั้งอยู่ที่ถนนจรดวิถีถ่อง 

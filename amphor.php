@@ -1,39 +1,39 @@
 
 <div class="container" style="margin-top:5em">
     <div class="row justify-content-center">
-        <div class="col-6 col-md-5 col-xl-3 box__amp">
+        <div class="col-12 col-md-5 col-xl-3 box__amp">
         <a href="?page=amphor/muangtak"><h2>อำเภอเมืองตาก</h2></a>
         <img src="img/san.jpg" width="100%" style="object-fit: cover; height:60%">
         </div>
-        <div class="col-6 col-md-5 col-xl-3 box__amp">
+        <div class="col-12 col-md-5 col-xl-3 box__amp">
         <a href="?page=amphor/bantak"><h2>อำเภอบ้านตาก</h2></a>
         <img src="img/wadpratard.jpg" width="100%" style="object-fit: cover; height:60%">
         </div>
-        <div class="col-6 col-md-5 col-xl-3 box__amp">
+        <div class="col-12 col-md-5 col-xl-3 box__amp">
         <a href="?page=amphor/samngav"><h2>อำเภอสามเงา</h2></a>
         <img src="img/bhumdam.jpg" width="100%" style="object-fit: cover; height:60%">
         </div>
-        <div class="col-6 col-md-5 col-xl-3 box__amp">
+        <div class="col-12 col-md-5 col-xl-3 box__amp">
         <a href="?page=amphor/maeramad"><h2>อำเภอแม่ระมาด</h2></a>
         <img src="img/maeramad.jpg" width="100%" style="object-fit: cover; height:60%">
         </div>
-        <div class="col-6 col-md-5 col-xl-3 box__amp">
+        <div class="col-12 col-md-5 col-xl-3 box__amp">
         <a href="?page=amphor/thasongyang"><h2>อำเภอท่าสองยาง</h2></a>
         <img src="img/thasongyang.jpg" width="100%" style="object-fit: cover; height:60%">
         </div>
-        <div class="col-6 col-md-5 col-xl-3 box__amp">
+        <div class="col-12 col-md-5 col-xl-3 box__amp">
         <a href="?page=amphor/maesod"> <h2>อำเภอแม่สอด</h2></a>
         <img src="img/maesod.jpg" width="100%" style="object-fit: cover; height:60%">
         </div>
-        <div class="col-6 col-md-5 col-xl-3 box__amp">
+        <div class="col-12 col-md-5 col-xl-3 box__amp">
         <a href="?page=amphor/phobpra"><h2>อำเภอพบพระ</h2></a>
         <img src="img/phobpra.jpg" width="100%" style="object-fit: cover; height:60%">
         </div>
-        <div class="col-6 col-md-5 col-xl-3 box__amp">
+        <div class="col-12 col-md-5 col-xl-3 box__amp">
         <a href="?page=amphor/oumphang"><h2>อำเภออุ้มผาง</h2></a>
         <img src="img/oumphang.jpg" width="100%" style="object-fit: cover; height:60%">
         </div>
-        <div class="col-6 col-md-5 col-xl-3 box__amp">
+        <div class="col-12 col-md-5 col-xl-3 box__amp">
         <a href="?page=amphor/wangchaw"><h2>อำเภอวังเจ้า</h2></a>
         <img src="img/wangchaw.jpg" width="100%" style="object-fit: cover; height:60%">
         </div>

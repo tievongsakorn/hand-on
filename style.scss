@@ -150,13 +150,18 @@ a:link {
 
 .box__link--advice {
     color: black;
+    transition: ease-in-out 0.5s;
 }
 .box__link--advice:hover {
+    background-color: rgba(245, 222, 179, 0.651);
     color: darkgoldenrod;
     transition: ease-in-out 0.3s;
     img {
         opacity: 0.8;
         transition: all 0.3s;
+    }
+    h2 {
+        text-shadow: 2px 2px 2px black;
     }
 }
 .amphor__contain {
