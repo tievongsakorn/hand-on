@@ -11,37 +11,7 @@
     <title>เที่ยวตาก</title>
 </head>
 <body>
-<!-- <nav class="navbar  navbar-expand-xl navbar-dark bg-dark">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-    <a class="navbar-brand" href="#">brand</a>
-    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-      <li class="nav-item ">
-        <a class="nav-link" href="#">หน้าหลัก <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          อำเภอต่างๆ
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">เมืองตาก</a>
-          <a class="dropdown-item" href="#">บ้านตาก</a>
-          <a class="dropdown-item" href="#">สามเงา</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link " href="#" tabindex="-1" >ติดต่อเรา</a>
-      </li>
-      
-    </ul>
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Search</button>
-    </form>
-  </div>
-</nav> -->
-<!------------->
+
 <nav class="navbar fixed-top navbar-dark navbar-expand-sm bg-dark justify-content-md-center justify-content-start">
     <a class="navbar-brand d-md-none d-inline" href=""></a>
     <button class="navbar-toggler ml-1" type="button" data-toggle="collapse" data-target="#collapsingNavbar2">
@@ -63,20 +33,13 @@
               <a class="nav-link" href="?page=amphor" >
               อำเภอต่างๆ
              </a>
-              <!-- <div class="dropdown-menu">
-                <a class="dropdown-item" href="#">Action</a>
-                <a class="dropdown-item" href="#">Another action</a>
-                <a class="dropdown-item" href="#">Something else here</a>
-              </div> -->
+             
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="?page=contact">ติดต่อเรา</a> 
             </li>
         </ul>
-        <!-- <ul class="nav navbar-nav flex-row justify-content-md-center justify-content-start flex-nowrap">
-            <li class="nav-item"><a class="nav-link" href=""><i class="fa fa-facebook mr-1"></i></a> </li>
-            <li class="nav-item"><a class="nav-link" href=""><i class="fa fa-twitter"></i></a> </li>
-        </ul> -->
+     
     </div>
 </nav>
 
@@ -100,13 +63,16 @@ else{
       <div class="row">
         <div class="col-6">
           <div class="row">
-            <div class="col-12 col-md-4"><a href="?page=first">เมนนูหลัก</a></div>
+            <div class="col-12 col-md-4"><a href="?page=first">เมนูหลัก</a></div>
             <div class="col-12 col-md-4"><a href="?page=amphor">อำเภอต่างๆ</a> </div>
             <div class="col-12 col-md-4"><a href="?page=contact">ติดต่อเรา</a></div>
           </div>
         </div>
-        <div class="col-6 contact">
-
+        <div class="col-6 text-right">
+        <p style="color: white;">จำนวนผู้เข้าชม 
+            <a href="https://www.hitwebcounter.com" target="_blank">
+            <img src="https://hitwebcounter.com/counter/counter.php?page=7739726&style=0025&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>              
+        </p>
         </div>
       </div>
       <div class="row">
@@ -148,17 +114,10 @@ $(document).ready(function(){
 });
     var elem = document.querySelector('.main-carousel');
     var flkty = new Flickity( elem, {
-  // options
   cellAlign: 'center',
   contain: true ,
 });
-
-// element argument can be a selector string
-//   for an individual element
 var flkty = new Flickity( '.main-carousel', {
-  // options
 });
-
-
 </script>
 </html>
